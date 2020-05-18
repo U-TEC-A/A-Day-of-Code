@@ -12,7 +12,11 @@ Our team comprises of two students who are pursuing their Bachelor of Computer E
 1. Binit Ghimire <thebinitghimire@gmail.com>
 2. Rupesh Aryal <rupesharyal555@gmail.com>
 
+## Our Presentation:
+You can view our presentation slides at "**A Day of Code**" event here: [Google Slides](https://docs.google.com/presentation/d/1dI5LJDQotIAMSOubPi6oShPsm54MiHI8JxljozHXd3k/edit?usp=sharing)
+
 ## Our Project Files:
+
 ### 1. COVID-19 Tracking Web Application:
 The **index.php** file is the main web application which we built for tracking the COVID-19 data worldwide. The web application obtains the IP addresses of visitors, determines the country from the obtained IP addresses and displays the COVID-19 data from their countries and the entire world as a whole. The other files in the assets directory are the web assets (images and stylesheets) of our project.
 
