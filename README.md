@@ -8,6 +8,11 @@ Welcome to COVID-19 Tracking Utilities for the Modern World project developed by
 
 Our team comprises of two students who are pursuing their Bachelor of Computer Engineering degree from United Technical College, Bharatpur-11, Chitwan.
 
+## Awards:
+1. Second Position (First Runner-up) at "**A Day of Code**" event, and
+2. Best Code
+> "The coding mechanisms or the coding techniques used by this team was wonderful. So, they are awarded for the Best Code category."
+
 ## Our Team:
 1. Binit Ghimire <thebinitghimire@gmail.com>
 2. Rupesh Aryal <rupesharyal555@gmail.com>
