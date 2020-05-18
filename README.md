@@ -18,7 +18,9 @@ The **index.php** file is the main web application which we built for tracking t
 
 ### 2. COVID-19 Tracking Command-line Utility:
 To use our Command-line Utility, you need to have Python 3.x installed on your computer. You will also have to install different Python modules as mentioned in the requirements.txt file. Then, you can just enter the following command in any command-line window to obtain the COVID-19 tracking data:
+
 	i. Global Information: **`python main.py`**
+	
 	ii. Certain Country's Information: **`python main.py <country_code>`**
 		i.e. For Nepal: **`python main.py np`**
 
