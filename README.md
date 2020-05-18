@@ -8,6 +8,8 @@ Welcome to COVID-19 Tracking Utilities for the Modern World project developed by
 
 Our team comprises of two students who are pursuing their Bachelor of Computer Engineering degree from United Technical College, Bharatpur-11, Chitwan.
 
+The project was developed and completed in between 12pm and 5pm on the first day and presented in front of all the participants and judges on the second day of "**A Day of Code**" event organized by **Boston Center for I.T. Club** of **Boston International College**, located at Bharatpur Metropolitan City of Nepal.
+
 ## Awards:
 1. Second Position (First Runner-up) at "**A Day of Code**" event, and
 2. Best Code
