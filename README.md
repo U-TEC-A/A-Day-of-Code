@@ -22,6 +22,6 @@ To use our Command-line Utility, you need to have Python 3.x installed on your c
 i. **Global Information**: **`python main.py`**	
 
 ii. **Certain Country's Information**: **`python main.py <country_code>`**
-	> i.e. For Nepal: **`python main.py np`**
+> i.e. For Nepal: **`python main.py np`**
 
 #### **Thank You!**
